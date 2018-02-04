@@ -1,0 +1,10 @@
+#!/bin/bash
+#采用系统变量产生随机数，系统变量随机数和时间相关。
+	done
+unset i
+unset j
+unset n
+rm ./random.txt
+		
+
+
